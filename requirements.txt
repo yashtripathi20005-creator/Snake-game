@@ -1,0 +1,5 @@
+# ===============================
+# File: requirements.txt
+# ===============================
+# Dependencies for the Snake game
+pygame>=2.0.0
